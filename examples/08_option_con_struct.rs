@@ -1,5 +1,4 @@
 #[derive(Debug)]
-
 struct Usuario{
     nombre: String,
     edad: u8,
