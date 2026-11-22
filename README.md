@@ -26,6 +26,10 @@ cargo build --examples
 | 06 | Préstamos con structs y `Vec`          | [06_prestamos_structs_vec.rs](examples/06_prestamos_structs_vec.rs) |
 | 07 | `Option<T>` y `match`                  | [07_option_basico.rs](examples/07_option_basico.rs) |
 | 08 | `Option<T>` con structs                | [08_option_con_struct.rs](examples/08_option_con_struct.rs) |
+| 09 | `match`                                | [09_expresion_match.rs](examples/09_expresion_match.rs) |
+| 10 | `match`                                | [10_match_nulo.rs](examples/10_match_nulo.rs) |
+| 11 | `match`                                | [11_match_tupla.rs](examples/11_match_tupla.rs) |
+| 12 | `match`                                | [12_match_incrementar.rs](examples/12_match_incrementar.rs) |
 
 ## Agregar un tema nuevo
 
