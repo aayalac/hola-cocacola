@@ -33,7 +33,8 @@ cargo build --examples
 | 13 | `loop`                                 | [13_bucles.rs](examples/13_bucles.rs) |
 | 14 | `while`                                | [14_while.rs](examples/14_while.rs) |
 | 15 | `while`, `let`                         | [15_while_let.rs](examples/15_while_let.rs) |
-| 16 | `for`                                  | [16_while_let.rs](examples/16_for_.rs) |
+| 16 | `for`                                  | [16_for.rs](examples/16_for.rs) |
+| 17 | `range`, `..`                          | [17_range.rs](examples/17_range.rs) |
 ## Agregar un tema nuevo
 
 1. Crea `examples/NN_nombre_del_tema.rs` (siguiente número, en snake_case).
